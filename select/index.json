@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "キャットラビング",
+  "base_artist": "香椎モイミ",
+  "createdAt": "2025-12-01T07:34:36.431713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キャットラビング - Cat Loving",
+      "artist": "Moimi Kashii",
+      "has_synced": true,
+      "path": "select/01_キャットラビング_-_Cat_Loving_Moimi_Kashii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キャットラビング",
+      "artist": "Kashii, Moimi",
+      "has_synced": true,
+      "path": "select/02_キャットラビング_Kashii,_Moimi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キャットラビング",
+      "artist": "Kashii, Moimi & KAFU",
+      "has_synced": true,
+      "path": "select/03_キャットラビング_Kashii,_Moimi_&_KAFU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キャットラビング",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/04_キャットラビング_Yuu..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャットラビング",
+      "artist": "香椎モイミ",
+      "has_synced": false,
+      "path": "select/pl_01_キャットラビング_香椎モイミ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "キャットラビング - Cover",
+      "artist": "香椎モイミ",
+      "has_synced": false,
+      "path": "select/pl_02_キャットラビング_-_Cover_香椎モイミ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "キャットラビング (Cover)",
+      "artist": "香椎モイミ",
+      "has_synced": false,
+      "path": "select/pl_03_キャットラビング_(Cover)_香椎モイミ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "キャットラビング",
+      "artist": "香椎モイミ",
+      "has_synced": false,
+      "path": "select/pl_04_キャットラビング_香椎モイミ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "キャットラビング",
+      "artist": "香椎モイミ",
+      "has_synced": false,
+      "path": "select/pl_05_キャットラビング_香椎モイミ.txt"
+    }
+  ]
+}
